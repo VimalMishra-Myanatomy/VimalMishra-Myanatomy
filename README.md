@@ -33,7 +33,7 @@
 * ⚡ Fun fact:When I am not working , I am busy exploring something.
 
 
-![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
+![](https://komarev.com/ghpvc/?username=VimalMishra-Myanatomy&color=blue&style=plastic&label=Github+Profile+Views)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
