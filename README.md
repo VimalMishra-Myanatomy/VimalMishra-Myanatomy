@@ -4,7 +4,7 @@ Senior Software Developer at MyAnatomy · AI Trainer at Outlier.ai
 
 ## Quick links
 
-- [Portfolio](https://vimalmishra.netlify.app/)
+- [Portfolio](https://vimalmishra.lovable.app/)
 - [LinkedIn](https://www.linkedin.com/in/mishravimal786/)
 - [LeetCode](https://leetcode.com/mishravimal99/)
 - [HackerRank](https://www.hackerrank.com/profile/mishravimal99)
